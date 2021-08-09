@@ -1,3 +1,3 @@
 # Banana-speak
 
-VanillaJS translation application
+Vanilla-JavaScript translation application
