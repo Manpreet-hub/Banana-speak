@@ -1,6 +1,6 @@
 # Banana-speak
 
-Vanilla-JavaScript translation application
+Vanilla-JavaScript translation application.<br/>
 Wants to translate your Language to Banana? Let's try this Banana Talk app!<br/>
 Have Fun!!
 <br/>
